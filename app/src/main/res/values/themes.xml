@@ -2,8 +2,12 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.ProfileUIdesign2" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="colorPrimary">@color/dark_red</item>
     </style>
 
     <style name="Theme.ProfileUIdesign2" parent="Base.Theme.ProfileUIdesign2" />
+
+    <style name="listTitle" parent="Base.Theme.ProfileUIdesign2">
+        <item name="android:textColor"></item>
+    </style>
 </resources>

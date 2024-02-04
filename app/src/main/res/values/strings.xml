@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">profileUIdesign2</string>
+    <string name="mobile">Mobile</string>
+    <string name="address">Address</string>
+    <string name="add_location">Add location</string>
+    <string name="settings">Settings</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="kevin_hart">Kevin Hart</string>
+    <string name="edit_picture">Edit Picture</string>
+    <string name="home_title">AW18 Winnipeg St, Alico</string>
+    <string name="home_subtitle">Nigerian Woman Road,\nHouse No 2213, GY1244</string>
+    <string name="_233_24_300_9448">+233 24 300 9448</string>
+    <string name="email">Email</string>
+    <string name="kevinhart_gmail_com">kevinhart@gmail.com</string>
+    <string name="delete_account">Delete Account</string>
 </resources>
